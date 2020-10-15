@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Rock, Paper or Scissors</title>        
+        <title>Rock Paper or Scissors</title>        
     </head>
     <body>
         <div id="rules">
