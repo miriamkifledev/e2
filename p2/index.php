@@ -8,7 +8,7 @@
     </head>
     <body>
         <div id="rules">
-            <h1>Rock Paper Scissors Game</h1>
+            <h1>Project 2: Rock Paper Scissors Game </h1>
             <h2>Mechanics</h2>
             <ul>
                 <li>
