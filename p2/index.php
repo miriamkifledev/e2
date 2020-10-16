@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Rock Paper or Scissors</title>        
+        <title>Project 2: Rock Paper Scissors Game </title>        
         <link rel="stylesheet" href="css.css">
     </head>
     <body>
